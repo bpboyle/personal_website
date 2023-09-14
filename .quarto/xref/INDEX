@@ -28,5 +28,11 @@
   },
   "research/index.qmd": {
     "index.html": "824d27e9"
+  },
+  "research/articles/boyle-2022/index.qmd": {
+    "index.html": "9724e861"
+  },
+  "research/working-papers/workingpaper1/index.qmd": {
+    "index.html": "d4aa3b65"
   }
 }

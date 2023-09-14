@@ -3,6 +3,10 @@
     "blogs\\index.qmd": [
       "B3049D40",
       "blogposts"
+    ],
+    "research\\index.qmd": [
+      "articles/*/index.qmd",
+      "working-papers/*/index.qmd"
     ]
   }
 }

@@ -4,5 +4,12 @@
     "items": [
       "/blogs/blogposts/blog1.html"
     ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/articles/boyle-2022/index.html",
+      "/research/working-papers/workingpaper1/index.html"
+    ]
   }
 ]
