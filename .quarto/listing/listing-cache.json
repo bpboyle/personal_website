@@ -6,7 +6,8 @@
     ],
     "research\\index.qmd": [
       "articles/*/index.qmd",
-      "working-papers/*/index.qmd"
+      "working-papers/*/index.qmd",
+      "B3049D40"
     ]
   }
 }

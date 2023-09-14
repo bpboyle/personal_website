@@ -23,19 +23,8 @@ pub-info:
   reference: >-
     <a href="https://arelbundock.com/">Vincent Arel-Bundock</a>, <a href="https://ngreifer.github.io/">Noah Greifer</a>, and <strong>Andrew Heiss</strong>, “The Marginal Effects Zoo: A Guide to Interpretation Using <code>marginaleffects</code> for R”
 
-links:
-  - name: Code
-    url: https://github.com/vincentarelbundock/mfxplainer
-    icon: fa-brands fa-github
-pub-status: 
-  status: Writing
-  class: warning
-  icon: fa-solid fa-pencil
+
 ---
-
-## Important links
-
--   [GitHub repository](https://github.com/vincentarelbundock/mfxplainer)
 
 ## Abstract
 

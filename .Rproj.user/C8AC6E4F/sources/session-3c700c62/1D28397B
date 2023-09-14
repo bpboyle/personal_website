@@ -3,7 +3,7 @@
     "path": "C:/Users/nbb798/Github/personal_website/research/index.qmd",
     "project_path": "research/index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "362280458",
     "contents": "",
     "dirty": false,
     "created": 1694701344144.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "6,22",
+        "cursorPosition": "11,4",
         "scrollLine": "0",
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1694704576,
+    "lastKnownWriteTime": 1694708785,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1694704576142,
+    "last_content_update": 1694708785520,
     "read_only": false,
     "read_only_alternatives": []
 }

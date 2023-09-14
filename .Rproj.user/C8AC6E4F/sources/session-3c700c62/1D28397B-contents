@@ -1,16 +1,18 @@
 ---
-title: "Research"
+title: ""
 listing:
+
   - id: articles
     contents: "articles/*/index.qmd"
     sort: "date desc"
-    template: ./listing.ejs
     categories: true
+    fields: [date, title, subtitle, description, author, categories]
   - id: working-papers
     contents: "working-papers/*/index.qmd"
+    fields: [date, title, subtitle, description, author, categories]
     sort: "date desc"
-    template: ./listing.ejs
 page-layout: full
+date-format: iso
 include-back-link: false
 toc-location: right
 
