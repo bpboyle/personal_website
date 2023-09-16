@@ -1,14 +1,14 @@
 {
-    "id": "1D28397B",
-    "path": "C:/Users/nbb798/Github/personal_website/research/index.qmd",
-    "project_path": "research/index.qmd",
+    "id": "8B84682B",
+    "path": "C:/Users/nbb798/Github/personal_website/research/articles/mulvey-etal-2022/index.qmd",
+    "project_path": "research/articles/mulvey-etal-2022/index.qmd",
     "type": "quarto_markdown",
-    "hash": "362280458",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1694701344144.0,
+    "created": 1694705090239.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 7,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "11,4",
+        "cursorPosition": "37,121",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "2920:836.7999877929688"
     },
     "folds": "",
-    "lastKnownWriteTime": 1694708785,
+    "lastKnownWriteTime": 1694709080,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1694708785520,
+    "last_content_update": 1694709080293,
     "read_only": false,
     "read_only_alternatives": []
 }

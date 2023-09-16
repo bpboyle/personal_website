@@ -7,6 +7,34 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "blogs/blogposts/blog1.html",
+    "href": "blogs/blogposts/blog1.html",
+    "title": "Blog 1",
+    "section": "",
+    "text": "This is the first blog post."
+  },
+  {
+    "objectID": "blogs/index.html",
+    "href": "blogs/index.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "Blog 1\n\n\n\n\n\nPost description\n\n\n\n\n\n\nAug 8, 2021\n\n\nBrian Boyle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Brian Paul Boyle",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "datavis/index.html",
+    "href": "datavis/index.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "BBC Question Time Tweets on days episodes aired \n    \n    \n    \n    \n    \n    \n    \n\n    \n    Language breakdown of 2019 MEP candidate Tweets\n   \n      \n     \n     \n     \n    \n    \n\n    \n    Brexit views for BBCQT guest appearances (2015-19)\n  \n    \n    \n    \n\n\n\n\n\n\n    \n      Gender balance of BBCQT appearances (1979-2019)\n    \n    \n    \n  \n\n     \n     \n    \n    Brexit vote choice for BBCQT appearances (2015-19)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Brian Paul Boyle",
@@ -21,64 +49,8 @@
     "text": "Data collection on guest appearances across all episodes of BBC Question Time (1979-2019).\nCreated using a combination of webscraping and manual coding.\nContains demographic information for all guests’ gender, ethnicity, profession, and educational background.\nParty affiliation coded for all political guests, as well as guests’ Brexit views (2015-2019)"
   },
   {
-    "objectID": "projects/index.html#the-languages-of-middle-earth",
-    "href": "projects/index.html#the-languages-of-middle-earth",
-    "title": "Projects",
-    "section": "The Languages of Middle-earth",
-    "text": "The Languages of Middle-earth\n\narXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Projects",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Brian Paul Boyle",
-    "section": "",
-    "text": "Download CV"
-  },
-  {
-    "objectID": "blogs/index.html",
-    "href": "blogs/index.html",
-    "title": "Blogs",
-    "section": "",
-    "text": "Blog 1\n\n\n\n\n\nPost description\n\n\n\n\n\n\nAug 8, 2021\n\n\nBrian Boyle\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blogs/blogposts/blog1.html",
-    "href": "blogs/blogposts/blog1.html",
-    "title": "Blog 1",
-    "section": "",
-    "text": "This is the first blog post."
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Brian Paul Boyle",
-    "section": "",
-    "text": "Migration\n\n\nRefugee settlement\n\n\nSocial policy\n\n\nUK\n\n\n\n\n\n\n\n\n\n\n\n2023-03-29\n\n\nGareth Mulvey, Dimitris Skleparis, Brian Paul Boyle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompulsory Voting\n\n\nTurnout Inequality\n\n\nElectoral Rules\n\n\nSurvey Data\n\n\n\n\n\n\n\n\n\n\n\n2022-06-07\n\n\nBrian Paul Boyle\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Brian Paul Boyle",
-    "section": "",
-    "text": "Teaching Assistant\n      \n      \n     Research Methods for Political Scientists (2021, 2019, 2018), 3rd year undergraduate course.\n     Quantitative Methods 1A (2021, 2019) 3rd year undergraduate course. \n     Comparative Politics (2020, 2019), 2nd year undergraduate course.\n     International Relations and Global Politics (2019), 2nd year undergraduate course.    \n         Introduction to Politics 1B (2018), 1st year undergraduate course.\n     Introduction to Politics 1A (2017), 1st year undergraduate course.\n      \n\n Nominated for Teaching Excellence Award: 'Best Student Who Teaches' (2019)\n\n Workshops\n    \n    \n       Quantitative Methods Dissertation Workshop (2021, 2020), 4th year undergraduates\n       Essay Writing Workshop (2021, 2019, 2018), 3rd year undergraduates"
-  },
-  {
-    "objectID": "datavis/index.html",
-    "href": "datavis/index.html",
-    "title": "Data Visualisation",
-    "section": "",
-    "text": "BBC Question Time Tweets on days episodes aired \n    \n    \n    \n    \n    \n    \n    \n\n    \n    Language breakdown of 2019 MEP candidate Tweets\n   \n      \n     \n     \n     \n    \n    \n\n    \n    Brexit views for BBCQT guest appearances (2015-19)\n  \n    \n    \n    \n\n\n\n\n\n\n    \n      Gender balance of BBCQT appearances (1979-2019)\n    \n    \n    \n  \n\n     \n     \n    \n    Brexit vote choice for BBCQT appearances (2015-19)"
-  },
-  {
-    "objectID": "projects/index.html#bbc-question-time-data-project",
-    "href": "projects/index.html#bbc-question-time-data-project",
+    "objectID": "projects/index.html#bbc-question-time-data",
+    "href": "projects/index.html#bbc-question-time-data",
     "title": "Projects",
     "section": "",
     "text": "Data collection on guest appearances across all episodes of BBC Question Time (1979-2019).\nCreated using a combination of webscraping and manual coding.\nContains demographic information for all guests’ gender, ethnicity, profession, and educational background.\nParty affiliation coded for all political guests, as well as guests’ Brexit views (2015-2019)"
@@ -89,13 +61,6 @@
     "title": "Projects",
     "section": "ProCon EU",
     "text": "ProCon EU\n  \n\nResearch project across 4 partner universities which examines the supporters and opponents of the EU.\nWP4 looking at Twitter campaigining during the 2014 and 2019 European Parliament elections\nDataset containing over 16 million tweets, with 100,000 tweets coded in over 10 languages"
-  },
-  {
-    "objectID": "projects/index.html#bbc-question-time-data",
-    "href": "projects/index.html#bbc-question-time-data",
-    "title": "Projects",
-    "section": "",
-    "text": "Data collection on guest appearances across all episodes of BBC Question Time (1979-2019).\nCreated using a combination of webscraping and manual coding.\nContains demographic information for all guests’ gender, ethnicity, profession, and educational background.\nParty affiliation coded for all political guests, as well as guests’ Brexit views (2015-2019)"
   },
   {
     "objectID": "research/articles/boyle-2022/index.html",
@@ -119,41 +84,6 @@
     "text": "Citation\n\nAdd to Zotero \n\n@article{doi:10.1177/00323217221096563,\nauthor = {Brian Paul Boyle},\ntitle ={Engineering Democracy: Electoral Rules and Turnout Inequality},\njournal = {Political Studies},\nvolume = {0},\nnumber = {0},\npages = {00323217221096563},\nyear = {2022},\ndoi = {10.1177/00323217221096563},\nURL = {https://doi.org/10.1177/00323217221096563},\neprint = {https://doi.org/10.1177/00323217221096563}}"
   },
   {
-    "objectID": "research/index.html#journal-articles",
-    "href": "research/index.html#journal-articles",
-    "title": "Brian Paul Boyle",
-    "section": "",
-    "text": "Migration\n\n\nRefugee settlement\n\n\nSocial policy\n\n\nUK\n\n\n\n\n\n\n\n\n\n\n\n2023-03-29\n\n\nGareth Mulvey, Dimitris Skleparis, Brian Paul Boyle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompulsory Voting\n\n\nTurnout Inequality\n\n\nElectoral Rules\n\n\nSurvey Data\n\n\n\n\n\n\n\n\n\n\n\n2022-06-07\n\n\nBrian Paul Boyle\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/index.html#working-papers",
-    "href": "research/index.html#working-papers",
-    "title": "Brian Paul Boyle",
-    "section": "Working papers",
-    "text": "Working papers\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/working-papers/workingpaper1/index.html",
-    "href": "research/working-papers/workingpaper1/index.html",
-    "title": "The Marginal Effects Zoo: A Guide to Interpretation Using marginaleffects for R",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/workingpaper1/index.html#important-links",
-    "href": "research/working-papers/workingpaper1/index.html#important-links",
-    "title": "The Marginal Effects Zoo: A Guide to Interpretation Using marginaleffects for R",
-    "section": "",
-    "text": "GitHub repository"
-  },
-  {
-    "objectID": "research/working-papers/workingpaper1/index.html#abstract",
-    "href": "research/working-papers/workingpaper1/index.html#abstract",
-    "title": "The Marginal Effects Zoo: A Guide to Interpretation Using marginaleffects for R",
-    "section": "Abstract",
-    "text": "Abstract\nAnalysts often transform their models’ parameter estimates to report more meaningful and interpretable quantities of interest. This article presents a simple conceptual framework to describe a vast array of estimands which are reported under imprecise and inconsistent terminology across disciplines: predictions, marginal predictions, marginal means, marginal effects, conditional effects, slopes, contrasts, risk ratios, etc. We introduce marginaleffects, an R package which offers a simple and powerful interface to compute all of those quantites, and to conduct hypothesis tests on them. marginaleffects is lightweight; extensible; it works well in combination with other R packages; and it supports over 70 classes of models, including Generalized Linear, Generalized Additive, Mixed Effects, and Bayesian models."
-  },
-  {
     "objectID": "research/articles/mulvey-etal-2022/index.html",
     "href": "research/articles/mulvey-etal-2022/index.html",
     "title": "Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland",
@@ -172,6 +102,34 @@
     "href": "research/articles/mulvey-etal-2022/index.html#citation",
     "title": "Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland",
     "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@article{doi:10.1177/23996544231165440,\nauthor = {Gareth Mulvey and Dimitris Skleparis and Brian Boyle},\ntitle ={Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland},\njournal = {Environment and Planning C: Politics and Space},\nvolume = {41},\nnumber = {5},\npages = {958-975},\nyear = {2023},\ndoi = {10.1177/23996544231165440},\nURL = {https://doi.org/10.1177/23996544231165440},\neprint = {https://doi.org/10.1177/23996544231165440}"
+    "text": "Citation\n\n Add to Zotero \n\n@article{doi:10.1177/23996544231165440,\nauthor = {Gareth Mulvey and Dimitris Skleparis and Brian Boyle},\ntitle ={Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland},\njournal = {Environment and Planning C: Politics and Space},\nvolume = {41},\nnumber = {5},\npages = {958-975},\nyear = {2023},\ndoi = {10.1177/23996544231165440},\nURL = {https://doi.org/10.1177/23996544231165440},\neprint = {https://doi.org/10.1177/23996544231165440}"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Brian Paul Boyle",
+    "section": "",
+    "text": "Migration\n\n\nRefugee settlement\n\n\nSocial policy\n\n\nUK\n\n\n\n\n\n\n\n\n\n\n\n2023-03-29\n\n\nGareth Mulvey, Dimitris Skleparis, Brian Paul Boyle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompulsory Voting\n\n\nTurnout Inequality\n\n\nElectoral Rules\n\n\nSurvey Data\n\n\n\n\n\n\n\n\n\n\n\n2022-06-07\n\n\nBrian Paul Boyle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#journal-articles",
+    "href": "research/index.html#journal-articles",
+    "title": "Brian Paul Boyle",
+    "section": "",
+    "text": "Migration\n\n\nRefugee settlement\n\n\nSocial policy\n\n\nUK\n\n\n\n\n\n\n\n\n\n\n\n2023-03-29\n\n\nGareth Mulvey, Dimitris Skleparis, Brian Paul Boyle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompulsory Voting\n\n\nTurnout Inequality\n\n\nElectoral Rules\n\n\nSurvey Data\n\n\n\n\n\n\n\n\n\n\n\n2022-06-07\n\n\nBrian Paul Boyle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Brian Paul Boyle",
+    "section": "Working papers",
+    "text": "Working papers\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Brian Paul Boyle",
+    "section": "",
+    "text": "Teaching Assistant\n      \n      \n     Research Methods for Political Scientists (2021, 2019, 2018), 3rd year undergraduate course.\n     Quantitative Methods 1A (2021, 2019) 3rd year undergraduate course. \n     Comparative Politics (2020, 2019), 2nd year undergraduate course.\n     International Relations and Global Politics (2019), 2nd year undergraduate course.    \n         Introduction to Politics 1B (2018), 1st year undergraduate course.\n     Introduction to Politics 1A (2017), 1st year undergraduate course.\n      \n\n Nominated for Teaching Excellence Award: 'Best Student Who Teaches' (2019)\n\n Workshops\n    \n    \n       Quantitative Methods Dissertation Workshop (2021, 2020), 4th year undergraduates\n       Essay Writing Workshop (2021, 2019, 2018), 3rd year undergraduates"
   }
 ]
