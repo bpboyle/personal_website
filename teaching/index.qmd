@@ -3,29 +3,45 @@ layout: Teaching
 title: ""
 ---
 
-
-
 ```{=html}
 <div>
+      <h4>Module Leader</h4>
+      <p>
+      <ul>
+    <li> <span style="color:#4A6670"><b>Becoming a Political Researcher</b></span> (2023), 2nd year undergraduate module.</li>
+    <li> <span style="color:#4A6670"><b>Applied Data Science for Political Research</b></span> (2024) 3rd year undergraduate module.</li> 
+    <li> <span style="color:#4A6670"><b>Principles of Data Science</b></span> (2024), MA module.</li>
+      </ul>
+      
+           <h4>Lectures/Seminars</h4>
+      <p>
+      <ul>
+    <li> <span style="color:#4A6670"><b>Thinking About Politics</b></span> (2023), MA module.</li>
+      </ul>
+       
+      
+
+
+
       <h4>Teaching Assistant</h4>
       <p>
       <ul>
-	<li> <span style="color:#4A6670"><b>Research Methods for Political Scientists</b></span> (2021, 2019, 2018), 3rd year undergraduate course.</li>
-	<li> <span style="color:#4A6670"><b>Quantitative Methods 1A</b></span> (2021, 2019) 3rd year undergraduate course.</li> 
-	<li> <span style="color:#4A6670"><b>Comparative Politics</b></span> (2020, 2019), 2nd year undergraduate course.</li>
-	<li> <span style="color:#4A6670"><b>International Relations and Global Politics</b></span> (2019), 2nd year undergraduate course.</li>    
+    <li> <span style="color:#4A6670"><b>Research Methods for Political Scientists</b></span> (2021, 2019, 2018), 3rd year undergraduate course.</li>
+    <li> <span style="color:#4A6670"><b>Quantitative Methods 1A</b></span> (2021, 2019) 3rd year undergraduate course.</li> 
+    <li> <span style="color:#4A6670"><b>Comparative Politics</b></span> (2020, 2019), 2nd year undergraduate course.</li>
+    <li> <span style="color:#4A6670"><b>International Relations and Global Politics</b></span> (2019), 2nd year undergraduate course.</li>    
         <li> <span style="color:#4A6670"><b>Introduction to Politics 1B</b></span> (2018), 1st year undergraduate course.</li>
-	<li> <span style="color:#4A6670"><b>Introduction to Politics 1A</b></span> (2017), 1st year undergraduate course.</li>
+    <li> <span style="color:#4A6670"><b>Introduction to Politics 1A</b></span> (2017), 1st year undergraduate course.</li>
       </ul>
 
  <p>Nominated for Teaching Excellence Award: 'Best Student Who Teaches' (2019)</p>
 
  <h4>Workshops</h4>
-	<p>
-	<ul>
-	  <li> <span style="color:#4A6670"><b>Quantitative Methods Dissertation Workshop</b></span> (2021, 2020), 4th year undergraduates
-	  <li> <span style="color:#4A6670"><b>Essay Writing Workshop</b></span> (2021, 2019, 2018), 3rd year undergraduates
-	</ul>	</p>
+    <p>
+    <ul>
+      <li> <span style="color:#4A6670"><b>Quantitative Methods Dissertation Workshop</b></span> (2021, 2020), 4th year undergraduates
+      <li> <span style="color:#4A6670"><b>Essay Writing Workshop</b></span> (2021, 2019, 2018), 3rd year undergraduates
+    </ul>   </p>
 
 </div>
 ```
