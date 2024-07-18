@@ -1,0 +1,31 @@
+---
+title: "EU integration through a Greener lens: Building consensus around European integration?"
+author:
+  - name: Brian Paul Boyle
+    orcid: 0000-0003-1996-5104
+    affiliation: Newcastle University
+  - name: Anastasia Ershova
+    orcid: 0000-0003-2925-2706
+    affiliation: Queen's University Belfast
+  - name: Zoltán Fazekas
+    orcid: 0000-0001-8938-2903
+    affiliation: Copenhagen Business School
+  - name: Sebastian Adrian Popa
+    orcid: 0000-0002-7133-7255
+    affiliation: Newcastle University   
+
+
+
+categories: 
+    - European Parliament
+    - Campaign pledges
+    - Lesiglative Behaviour
+    - Social media
+    - Text as data
+---
+
+## Abstract
+
+This paper unpacks how MEPs’ communication during electoral campaigns matches their voting behaviour when in office. We argue that the policy salience and policy positions that MEPs signalled during their electoral campaign align with voting behaviour during the parliamentary term. Specifically, we anticipate that MEPs will be less likely to abstain or be absent from legislative proposals that match the policy domain they emphasized during their campaign. Furthermore, we expect that MEPs who expressed Eurosceptic views in their campaign communication will be more likely to oppose the EU authority expansion. We test our expectations using a novel dataset of MEPs' policy statements on Twitter posted during the 2019 EP election campaign. For all EU countries and languages, policy content and positions have been extracted using human coding and state-of-the-art supervised machine learning. We merge this with the Vote Watch data and a scaled indicator of EU authority expansion. Relying on all EU countries, we provide comparative evidence for the consistency between campaign and legislative behaviour alignment, with substantial variation along party discipline and individual reelection motivations
+
+## 

@@ -1,0 +1,22 @@
+---
+title: "Brexit and the Iraq War on BBC Question Time: Demographic and Political Issue Representation in UK Public Participation Broadcasting"
+author:
+  - name: Heinz Brandenburg
+    orcid: 0000-0002-2670-4706
+    affiliation: University of Strathclyde
+  - name: Brian Paul Boyle
+    orcid: 0000-0003-1996-5104
+    affiliation: Newcastle University
+
+
+categories: 
+    - Media representation
+    - UK
+    - Brexit
+---
+
+## Abstract
+
+Televised political debate programming plays a key function in enabling citizens to become informed of salient political topics, and provides information on parties' stances on key issues outside of election campaigns. Public broadcasters are bound by strict guidelines to ensure balance in representing different demographic and political groups, to better reflect the distribution of these characteristics within the public and political elites. How are these decisions affected when the biggest political issues of the day create further cleavages that cross-cut existing divides, but also deserve representation in political discourse? In this paper, we examine how panel selection on BBC Question Time dealt with this in relation to two major issues in 21st century UK politics: Brexit and the UK invasion of Iraq. We introduce an original dataset including all BBC Question Time appearances between 2001-2019, created using a combination of web-scraping and expert coding. This allows us to trace patterns in representation across gender, ethnicity, and educational background; as well as partisan affiliation and stances on Brexit and the Iraq war for the show’s panelists. We find that panel selection closely reflects gender and ethnic diversity among the UK public and MPs, but that individuals from privileged educational backgrounds are vastly overrepresented on the show. For both the Iraq war and Brexit, the show again broadly reflects the views of the public and political elites once we account for relevant comparisons between politicians and non-political guests.
+
+## 

@@ -15,18 +15,14 @@ page-layout: full
 date-format: iso
 include-back-link: false
 toc-location: right
-
 ---
-
-
 
 ## Journal articles
 
-:::{#articles}
+::: {#articles}
 :::
-
 
 ## Working papers
 
-:::{#working-papers}
+::: {#working-papers}
 :::
