@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/blogs/index.html",
+    "items": [
+      "/blogs/blogposts/blog1.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/articles/mulvey-etal-2022/index.html",
+      "/research/articles/boyle-2022/index.html",
+      "/research/working-papers/boyle-etal-energypolicy-2024/index.html",
+      "/research/working-papers/mulvey-etal-2023/index.html"
+    ]
+  }
+]

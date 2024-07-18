@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -60,66 +58,7 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-articles .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-subtitle','listing-description','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-articles'] = new List('listing-articles', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-working-papers .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-subtitle','listing-description','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-working-papers'] = new List('listing-working-papers', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -146,11 +85,11 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../research/index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../research/index.html" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../teaching/index.html" rel="" target="">
+    <a class="nav-link active" href="../teaching/index.html" rel="" target="" aria-current="page">
  <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
@@ -169,211 +108,59 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#journal-articles" id="toc-journal-articles" class="nav-link active" data-scroll-target="#journal-articles">Journal articles</a></li>
-  <li><a href="#working-papers" id="toc-working-papers" class="nav-link" data-scroll-target="#working-papers">Working papers</a></li>
-  </ul>
-</nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Bibliographic research">Bibliographic research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Climate change and energy policy">Climate change and energy policy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Compulsory Voting">Compulsory Voting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Electoral Rules">Electoral Rules <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Migration">Migration <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Policy recommondations">Policy recommondations <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Refugee settlement">Refugee settlement <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Social policy">Social policy <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Survey Data">Survey Data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Text as data">Text as data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Turnout Inequality">Turnout Inequality <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UK">UK <span class="quarto-category-count">(2)</span></div></div></div>
+        
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 
-<section id="journal-articles" class="level2">
-<h2 class="anchored" data-anchor-id="journal-articles">Journal articles</h2>
-<div id="listing-articles" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Migration,Refugee settlement,Social policy,UK" data-listing-date-sort="1680044400000" data-listing-file-modified-sort="1694709080280" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<div class="body">
-<a href="../research/articles/mulvey-etal-2022/index.html">
-<h3 class="no-anchor listing-title">
-Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Migration'); return false;">
-Migration
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Refugee settlement'); return false;">
-Refugee settlement
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Social policy'); return false;">
-Social policy
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UK'); return false;">
-UK
-</div>
-</div>
-<a href="../research/articles/mulvey-etal-2022/index.html">
-<div class="listing-description">
-Access to social rights is crucial to refugee settlement and integration, and a whole range of social policy measures determine the limits on those rights. In the United…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../research/articles/mulvey-etal-2022/index.html">
-<div class="listing-date">
-2023-03-29
-</div>
-<div class="listing-author">
-Gareth Mulvey, Dimitris Skleparis, Brian Paul Boyle
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Compulsory Voting,Turnout Inequality,Electoral Rules,Survey Data" data-listing-date-sort="1654556400000" data-listing-file-modified-sort="1694709042876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="body">
-<a href="../research/articles/boyle-2022/index.html">
-<h3 class="no-anchor listing-title">
-Engineering Democracy: Electoral Rules and Turnout Inequality
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Compulsory Voting'); return false;">
-Compulsory Voting
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Turnout Inequality'); return false;">
-Turnout Inequality
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Electoral Rules'); return false;">
-Electoral Rules
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Survey Data'); return false;">
-Survey Data
-</div>
-</div>
-<a href="../research/articles/boyle-2022/index.html">
-<div class="listing-description">
-The issue of unequal electoral turnout poses serious concerns for both the overall health of democratic politics, and the extent to which certain groups exert an unequal…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../research/articles/boyle-2022/index.html">
-<div class="listing-date">
-2022-06-07
-</div>
-<div class="listing-author">
-Brian Paul Boyle
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="working-papers" class="level2">
-<h2 class="anchored" data-anchor-id="working-papers">Working papers</h2>
-<div id="listing-working-papers" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Climate change and energy policy,Policy recommondations,Bibliographic research,Text as data" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1721314978457" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="body">
-<a href="../research/working-papers/boyle-etal-energypolicy-2024/index.html">
-<h3 class="no-anchor listing-title">
-Catalysts for Progress? Policy Recommendations in Research on Renewable Energy and Climate Change
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Climate change and energy policy'); return false;">
-Climate change and energy policy
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Policy recommondations'); return false;">
-Policy recommondations
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Bibliographic research'); return false;">
-Bibliographic research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Text as data'); return false;">
-Text as data
-</div>
-</div>
-<a href="../research/working-papers/boyle-etal-energypolicy-2024/index.html">
-<div class="listing-description">
-Political parties, politicians, and governments increasingly encourage academics to make policy recommendations. Effective communication in areas like climate change and net…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../research/working-papers/boyle-etal-energypolicy-2024/index.html">
-<div class="listing-date">
-2024-01-01
-</div>
-<div class="listing-author">
-Brian Paul Boyle, Yen-Chieh Liao, Stefan Müller
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Migration,Refugee settlement,Social policy,UK" data-listing-date-sort="1680044400000" data-listing-file-modified-sort="1721315515193" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<div class="body">
-<a href="../research/working-papers/mulvey-etal-2023/index.html">
-<h3 class="no-anchor listing-title">
-Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Migration'); return false;">
-Migration
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Refugee settlement'); return false;">
-Refugee settlement
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Social policy'); return false;">
-Social policy
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UK'); return false;">
-UK
-</div>
-</div>
-<a href="../research/working-papers/mulvey-etal-2023/index.html">
-<div class="listing-description">
-Access to social rights is crucial to refugee settlement and integration, and a whole range of social policy measures determine the limits on those rights. In the United…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../research/working-papers/mulvey-etal-2023/index.html">
-<div class="listing-date">
-2023-03-29
-</div>
-<div class="listing-author">
-Gareth Mulvey, Dimitris Skleparis, Brian Paul Boyle
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+<div>
+      <h4 class="anchored">Module Leader</h4>
+      <p>
+      </p><ul>
+    <li> <span style="color:#4A6670"><b>Becoming a Political Researcher</b></span> (2023), 2nd year undergraduate module.</li>
+    <li> <span style="color:#4A6670"><b>Applied Data Science for Political Research</b></span> (2024) 3rd year undergraduate module.</li> 
+    <li> <span style="color:#4A6670"><b>Principles of Data Science</b></span> (2024), MA module.</li>
+      </ul>
+      
+           <h4 class="anchored">Lectures/Seminars</h4>
+      <p>
+      </p><ul>
+    <li> <span style="color:#4A6670"><b>Thinking About Politics</b></span> (2023), MA module.</li>
+      </ul>
+       
+      
 
 
 
-</section>
+      <h4 class="anchored">Teaching Assistant</h4>
+      <p>
+      </p><ul>
+    <li> <span style="color:#4A6670"><b>Research Methods for Political Scientists</b></span> (2021, 2019, 2018), 3rd year undergraduate course.</li>
+    <li> <span style="color:#4A6670"><b>Quantitative Methods 1A</b></span> (2021, 2019) 3rd year undergraduate course.</li> 
+    <li> <span style="color:#4A6670"><b>Comparative Politics</b></span> (2020, 2019), 2nd year undergraduate course.</li>
+    <li> <span style="color:#4A6670"><b>International Relations and Global Politics</b></span> (2019), 2nd year undergraduate course.</li>    
+        <li> <span style="color:#4A6670"><b>Introduction to Politics 1B</b></span> (2018), 1st year undergraduate course.</li>
+    <li> <span style="color:#4A6670"><b>Introduction to Politics 1A</b></span> (2017), 1st year undergraduate course.</li>
+      </ul>
+
+ <p>Nominated for Teaching Excellence Award: 'Best Student Who Teaches' (2019)</p>
+
+ <h4 class="anchored">Workshops</h4>
+    <p>
+    </p><ul>
+      <li> <span style="color:#4A6670"><b>Quantitative Methods Dissertation Workshop</b></span> (2021, 2020), 4th year undergraduates
+      </li><li> <span style="color:#4A6670"><b>Essay Writing Workshop</b></span> (2021, 2019, 2018), 3rd year undergraduates
+    </li></ul>   <p></p>
+
+</div>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

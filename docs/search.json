@@ -1,9 +1,170 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blogs/blogposts/blog1.html",
+    "href": "blogs/blogposts/blog1.html",
+    "title": "Blog 1",
+    "section": "",
+    "text": "This is the first blog post."
+  },
+  {
+    "objectID": "blogs/index.html",
+    "href": "blogs/index.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "Blog 1\n\n\n\n\n\nPost description\n\n\n\n\n\n\nAug 8, 2021\n\n\nBrian Boyle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Brian Paul Boyle",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "datavis/index.html",
+    "href": "datavis/index.html",
+    "title": "Data Visualisation",
+    "section": "",
+    "text": "BBC Question Time Tweets on days episodes aired \n    \n    \n    \n    \n    \n    \n    \n\n    \n    Language breakdown of 2019 MEP candidate Tweets\n   \n      \n     \n     \n     \n    \n    \n\n    \n    Brexit views for BBCQT guest appearances (2015-19)\n  \n    \n    \n    \n\n\n\n\n\n\n    \n      Gender balance of BBCQT appearances (1979-2019)\n    \n    \n    \n  \n\n     \n     \n    \n    Brexit vote choice for BBCQT appearances (2015-19)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Brian Paul Boyle",
     "section": "",
     "text": "Brian Paul Boyle\n            Lecturer in Comparative Politics\n            Newcastle University\n            \n               \n \n \n  \n   \n  \n    \n     Google Scholar\n  \n  \n    \n     Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n\n\n\nAbout me\nMy main research interests are comparative politics and political communication, with a focus on quantitative methods and computational social science approaches. I received my PhD in Politics from the University of Strathclyde in 2021. My current research examines political campaigning on Twitter during European Parliament elections, as well as political representation in UK public broadcasting. My other published work based on my PhD research explores the relationship between electoral rules such as compulsory voting and voter registration, and social inequalities across voting, non-electoral participation, and political attitudes.\n\n\n\n\n\n\n\n\nData Visualisation\n\n\n\n    \n    BBC Question Time Tweets on days episodes aired \n    \n    \n    \n    \n    \n    \n    \n\n    \n    Language breakdown of 2019 MEP candidate Tweets\n   \n      \n     \n     \n     \n    \n    \n\n    \n    Brexit views for BBCQT guest appearances (2015-19)\n  \n    \n    \n    \n\n\n\n\n\n    \n      Gender balance of BBCQT appearances (1979-2019)\n    \n    \n    \n  \n\n     \n     \n    \n    Brexit vote choice for BBCQT appearances (2015-19)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Data collection on guest appearances across all episodes of BBC Question Time (1979-2019).\nCreated using a combination of webscraping and manual coding.\nContains demographic information for all guests’ gender, ethnicity, profession, and educational background.\nParty affiliation coded for all political guests, as well as guests’ Brexit views (2015-2019)"
+  },
+  {
+    "objectID": "projects/index.html#bbc-question-time-data",
+    "href": "projects/index.html#bbc-question-time-data",
+    "title": "Projects",
+    "section": "",
+    "text": "Data collection on guest appearances across all episodes of BBC Question Time (1979-2019).\nCreated using a combination of webscraping and manual coding.\nContains demographic information for all guests’ gender, ethnicity, profession, and educational background.\nParty affiliation coded for all political guests, as well as guests’ Brexit views (2015-2019)"
+  },
+  {
+    "objectID": "projects/index.html#procon-eu",
+    "href": "projects/index.html#procon-eu",
+    "title": "Projects",
+    "section": "ProCon EU",
+    "text": "ProCon EU\n  \n\nResearch project across 4 partner universities which examines the supporters and opponents of the EU.\nWP4 looking at Twitter campaigining during the 2014 and 2019 European Parliament elections\nDataset containing over 16 million tweets, with 100,000 tweets coded in over 10 languages"
+  },
+  {
+    "objectID": "research/articles/boyle-2022/index.html",
+    "href": "research/articles/boyle-2022/index.html",
+    "title": "Engineering Democracy: Electoral Rules and Turnout Inequality",
+    "section": "",
+    "text": "The issue of unequal electoral turnout poses serious concerns for both the overall health of democratic politics, and the extent to which certain groups exert an unequal influence on the political process. This article explores the relationship between electoral rules such as: compulsory voting, electoral system proportionality, and voter registration with voter inequality in terms of age, income and education. This is examined using cross-national survey data and cross-level interactions between electoral institutions and socio-demographic variables. The final dataset is based on waves 2–4 of the Comparative Study of Electoral Systems, and contains information on 133,000 individuals, within 45 countries, between 2001 and 2016. The results indicate that compulsory voting is associated with a significant reduction in turnout inequalities, while the effects of proportionality and voter registration are somewhat more mixed."
+  },
+  {
+    "objectID": "research/articles/boyle-2022/index.html#abstract",
+    "href": "research/articles/boyle-2022/index.html#abstract",
+    "title": "Engineering Democracy: Electoral Rules and Turnout Inequality",
+    "section": "",
+    "text": "The issue of unequal electoral turnout poses serious concerns for both the overall health of democratic politics, and the extent to which certain groups exert an unequal influence on the political process. This article explores the relationship between electoral rules such as: compulsory voting, electoral system proportionality, and voter registration with voter inequality in terms of age, income and education. This is examined using cross-national survey data and cross-level interactions between electoral institutions and socio-demographic variables. The final dataset is based on waves 2–4 of the Comparative Study of Electoral Systems, and contains information on 133,000 individuals, within 45 countries, between 2001 and 2016. The results indicate that compulsory voting is associated with a significant reduction in turnout inequalities, while the effects of proportionality and voter registration are somewhat more mixed."
+  },
+  {
+    "objectID": "research/articles/boyle-2022/index.html#citation",
+    "href": "research/articles/boyle-2022/index.html#citation",
+    "title": "Engineering Democracy: Electoral Rules and Turnout Inequality",
+    "section": "Citation",
+    "text": "Citation\n\nAdd to Zotero \n\n@article{doi:10.1177/00323217221096563,\nauthor = {Brian Paul Boyle},\ntitle ={Engineering Democracy: Electoral Rules and Turnout Inequality},\njournal = {Political Studies},\nvolume = {0},\nnumber = {0},\npages = {00323217221096563},\nyear = {2022},\ndoi = {10.1177/00323217221096563},\nURL = {https://doi.org/10.1177/00323217221096563},\neprint = {https://doi.org/10.1177/00323217221096563}}"
+  },
+  {
+    "objectID": "research/articles/mulvey-etal-2022/index.html",
+    "href": "research/articles/mulvey-etal-2022/index.html",
+    "title": "Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland",
+    "section": "",
+    "text": "Access to social rights is crucial to refugee settlement and integration, and a whole range of social policy measures determine the limits on those rights. In the United Kingdom (UK) various relevant social policies are divided into devolved and reserved categories. This has resulted in a distinct territorial variance in social rights and welfare provisions within the country. The aim of this article is to explore how young Syrian refugees experience this territorial divergence in two jurisdictions: in Scotland, where they are part social citizens; and in England, where access to social rights is more limited. We use the prism of social citizenship as a means of examining the experiences of settlement and integration of Syrian refugees in the two nations. We draw out contrasts between these experiences and locate them within the interactions between the politics of welfare and refugee politics in the two nations. We argue that fine variances in England's and Scotland's social rights and welfare regimes have an impact on the settlement experiences of refugees. England's less supportive regime fosters self-reliance and faster labour market integration among refugees. However, this environment pushes refugees in England to accept any job that they might find, no matter how precarious, or how far it may be from their educational qualifications, past professional experience or aspirations. This has overarching implications for refugees' outlook on life and long-term planning."
+  },
+  {
+    "objectID": "research/articles/mulvey-etal-2022/index.html#abstract",
+    "href": "research/articles/mulvey-etal-2022/index.html#abstract",
+    "title": "Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland",
+    "section": "",
+    "text": "Access to social rights is crucial to refugee settlement and integration, and a whole range of social policy measures determine the limits on those rights. In the United Kingdom (UK) various relevant social policies are divided into devolved and reserved categories. This has resulted in a distinct territorial variance in social rights and welfare provisions within the country. The aim of this article is to explore how young Syrian refugees experience this territorial divergence in two jurisdictions: in Scotland, where they are part social citizens; and in England, where access to social rights is more limited. We use the prism of social citizenship as a means of examining the experiences of settlement and integration of Syrian refugees in the two nations. We draw out contrasts between these experiences and locate them within the interactions between the politics of welfare and refugee politics in the two nations. We argue that fine variances in England's and Scotland's social rights and welfare regimes have an impact on the settlement experiences of refugees. England's less supportive regime fosters self-reliance and faster labour market integration among refugees. However, this environment pushes refugees in England to accept any job that they might find, no matter how precarious, or how far it may be from their educational qualifications, past professional experience or aspirations. This has overarching implications for refugees' outlook on life and long-term planning."
+  },
+  {
+    "objectID": "research/articles/mulvey-etal-2022/index.html#citation",
+    "href": "research/articles/mulvey-etal-2022/index.html#citation",
+    "title": "Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{doi:10.1177/23996544231165440,\nauthor = {Gareth Mulvey and Dimitris Skleparis and Brian Boyle},\ntitle ={Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland},\njournal = {Environment and Planning C: Politics and Space},\nvolume = {41},\nnumber = {5},\npages = {958-975},\nyear = {2023},\ndoi = {10.1177/23996544231165440},\nURL = {https://doi.org/10.1177/23996544231165440},\neprint = {https://doi.org/10.1177/23996544231165440}"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Brian Paul Boyle",
+    "section": "",
+    "text": "Migration\n\n\nRefugee settlement\n\n\nSocial policy\n\n\nUK\n\n\n\n\n\n\n\n\n\n\n\n2023-03-29\n\n\nGareth Mulvey, Dimitris Skleparis, Brian Paul Boyle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompulsory Voting\n\n\nTurnout Inequality\n\n\nElectoral Rules\n\n\nSurvey Data\n\n\n\n\n\n\n\n\n\n\n\n2022-06-07\n\n\nBrian Paul Boyle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#journal-articles",
+    "href": "research/index.html#journal-articles",
+    "title": "Brian Paul Boyle",
+    "section": "",
+    "text": "Migration\n\n\nRefugee settlement\n\n\nSocial policy\n\n\nUK\n\n\n\n\n\n\n\n\n\n\n\n2023-03-29\n\n\nGareth Mulvey, Dimitris Skleparis, Brian Paul Boyle\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompulsory Voting\n\n\nTurnout Inequality\n\n\nElectoral Rules\n\n\nSurvey Data\n\n\n\n\n\n\n\n\n\n\n\n2022-06-07\n\n\nBrian Paul Boyle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Brian Paul Boyle",
+    "section": "Working papers",
+    "text": "Working papers\n\n\n\n\n\n\nCatalysts for Progress? Policy Recommendations in Research on Renewable Energy and Climate Change\n\n\n\n\n\n\n\nClimate change and energy policy\n\n\nPolicy recommondations\n\n\nBibliographic research\n\n\nText as data\n\n\n\n\n\n\n\n\n\n\n\n2024-01-01\n\n\nBrian Paul Boyle, Yen-Chieh Liao, Stefan Müller\n\n\n\n\n\n\n\n\nTerritorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland\n\n\n\n\n\n\n\nMigration\n\n\nRefugee settlement\n\n\nSocial policy\n\n\nUK\n\n\n\n\n\n\n\n\n\n\n\n2023-03-29\n\n\nGareth Mulvey, Dimitris Skleparis, Brian Paul Boyle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/working-papers/boyle-etal-energypolicy-2024/index.html",
+    "href": "research/working-papers/boyle-etal-energypolicy-2024/index.html",
+    "title": "Catalysts for Progress? Policy Recommendations in Research on Renewable Energy and Climate Change",
+    "section": "",
+    "text": "Political parties, politicians, and governments increasingly encourage academics to make policy recommendations. Effective communication in areas like climate change and net zero energy is crucial for societal engagement and policy adoption. This study maps the prevalence of policy recommendations in academic research on renewable energy and climate change. We use a fine-tuned transformer-based machine learning classifier to analyze abstracts from over 355,000 publications to identify policy recommendations. We find that fewer than one in ten abstracts make a policy recommendation, with notable differences across disciplines and topics. Recommendations have become more common in climate change research, although the increase in net zero energy systems research is less pronounced. Our study suggests that policymakers and advisors may rarely find practical implications in research abstracts. Therefore, researchers and practitioners should explicitly state the policy relevance of their work in abstracts or use supplementary communication channels to discuss how science can contribute to a net zero energy future and climate change mitigation."
+  },
+  {
+    "objectID": "research/working-papers/boyle-etal-energypolicy-2024/index.html#abstract",
+    "href": "research/working-papers/boyle-etal-energypolicy-2024/index.html#abstract",
+    "title": "Catalysts for Progress? Policy Recommendations in Research on Renewable Energy and Climate Change",
+    "section": "",
+    "text": "Political parties, politicians, and governments increasingly encourage academics to make policy recommendations. Effective communication in areas like climate change and net zero energy is crucial for societal engagement and policy adoption. This study maps the prevalence of policy recommendations in academic research on renewable energy and climate change. We use a fine-tuned transformer-based machine learning classifier to analyze abstracts from over 355,000 publications to identify policy recommendations. We find that fewer than one in ten abstracts make a policy recommendation, with notable differences across disciplines and topics. Recommendations have become more common in climate change research, although the increase in net zero energy systems research is less pronounced. Our study suggests that policymakers and advisors may rarely find practical implications in research abstracts. Therefore, researchers and practitioners should explicitly state the policy relevance of their work in abstracts or use supplementary communication channels to discuss how science can contribute to a net zero energy future and climate change mitigation."
+  },
+  {
+    "objectID": "research/working-papers/boyle-etal-energypolicy-2024/index.html#citation",
+    "href": "research/working-papers/boyle-etal-energypolicy-2024/index.html#citation",
+    "title": "Catalysts for Progress? Policy Recommendations in Research on Renewable Energy and Climate Change",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "research/working-papers/mulvey-etal-2023/index.html",
+    "href": "research/working-papers/mulvey-etal-2023/index.html",
+    "title": "Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland",
+    "section": "",
+    "text": "Access to social rights is crucial to refugee settlement and integration, and a whole range of social policy measures determine the limits on those rights. In the United Kingdom (UK) various relevant social policies are divided into devolved and reserved categories. This has resulted in a distinct territorial variance in social rights and welfare provisions within the country. The aim of this article is to explore how young Syrian refugees experience this territorial divergence in two jurisdictions: in Scotland, where they are part social citizens; and in England, where access to social rights is more limited. We use the prism of social citizenship as a means of examining the experiences of settlement and integration of Syrian refugees in the two nations. We draw out contrasts between these experiences and locate them within the interactions between the politics of welfare and refugee politics in the two nations. We argue that fine variances in England's and Scotland's social rights and welfare regimes have an impact on the settlement experiences of refugees. England's less supportive regime fosters self-reliance and faster labour market integration among refugees. However, this environment pushes refugees in England to accept any job that they might find, no matter how precarious, or how far it may be from their educational qualifications, past professional experience or aspirations. This has overarching implications for refugees' outlook on life and long-term planning."
+  },
+  {
+    "objectID": "research/working-papers/mulvey-etal-2023/index.html#abstract",
+    "href": "research/working-papers/mulvey-etal-2023/index.html#abstract",
+    "title": "Territorial variance in the UK’s refugee politics and its consequences: Young Syrian refugees in England and Scotland",
+    "section": "",
+    "text": "Access to social rights is crucial to refugee settlement and integration, and a whole range of social policy measures determine the limits on those rights. In the United Kingdom (UK) various relevant social policies are divided into devolved and reserved categories. This has resulted in a distinct territorial variance in social rights and welfare provisions within the country. The aim of this article is to explore how young Syrian refugees experience this territorial divergence in two jurisdictions: in Scotland, where they are part social citizens; and in England, where access to social rights is more limited. We use the prism of social citizenship as a means of examining the experiences of settlement and integration of Syrian refugees in the two nations. We draw out contrasts between these experiences and locate them within the interactions between the politics of welfare and refugee politics in the two nations. We argue that fine variances in England's and Scotland's social rights and welfare regimes have an impact on the settlement experiences of refugees. England's less supportive regime fosters self-reliance and faster labour market integration among refugees. However, this environment pushes refugees in England to accept any job that they might find, no matter how precarious, or how far it may be from their educational qualifications, past professional experience or aspirations. This has overarching implications for refugees' outlook on life and long-term planning."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Brian Paul Boyle",
+    "section": "",
+    "text": "Module Leader\n      \n      \n     Becoming a Political Researcher (2023), 2nd year undergraduate module.\n     Applied Data Science for Political Research (2024) 3rd year undergraduate module. \n     Principles of Data Science (2024), MA module.\n      \n      \n           Lectures/Seminars\n      \n      \n     Thinking About Politics (2023), MA module.\n      \n       \n      \n\n\n\n      Teaching Assistant\n      \n      \n     Research Methods for Political Scientists (2021, 2019, 2018), 3rd year undergraduate course.\n     Quantitative Methods 1A (2021, 2019) 3rd year undergraduate course. \n     Comparative Politics (2020, 2019), 2nd year undergraduate course.\n     International Relations and Global Politics (2019), 2nd year undergraduate course.    \n         Introduction to Politics 1B (2018), 1st year undergraduate course.\n     Introduction to Politics 1A (2017), 1st year undergraduate course.\n      \n\n Nominated for Teaching Excellence Award: 'Best Student Who Teaches' (2019)\n\n Workshops\n    \n    \n       Quantitative Methods Dissertation Workshop (2021, 2020), 4th year undergraduates\n       Essay Writing Workshop (2021, 2019, 2018), 3rd year undergraduates"
   }
 ]
