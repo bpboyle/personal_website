@@ -1,0 +1,29 @@
+---
+title: "EU integration through a Greener lens: Building consensus around European integration?"
+author:
+  - name: Zoltán Fazekas
+    orcid: 0000-0001-8938-2903
+    affiliation: Copenhagen Business School
+  - name: Sebastian Adrian Popa
+    orcid: 0000-0002-7133-7255
+    affiliation: Newcastle University   
+  - name: Anthony Zito
+    orcid: 0000-0002-2312-4781
+    affiliation: Newcastle University
+  - name: Brian Paul Boyle
+    orcid: 0000-0003-1996-5104
+    affiliation: Newcastle University
+
+categories: 
+    - Environmental politics
+    - European Parliament
+    - Election campaigns
+    - Social media
+    - Text as data
+---
+
+## Abstract
+
+EU environmental policy is one of the success stories of European integration. In this paper, we argue that popular support for EU-cantered environmental protection efforts has helped underpin the case for the legitimacy of this transnational body. By analysing how European political parties frame the relationship between European integration and Green politics during the European Parliament (EP) elections, we aim to show the degree to which the Green Agenda can be used to (re)build consensus around European integration. We make use of Twitter data from all MEP candidates during the 2019 EP election campaign. Combining human coding and machine learning techniques, we identify the issue(s) in a given tweet, as well as the degree to which it expresses support for EU integration. We contrast the level of support for the EU in relation to environmental issues (embedded), with more general expressions of support for the EU among candidates. We report promising evidence to suggest that dominant mainstream parties and Green parties are generally promoting this embedded framing and that this framing has been rewarded with members of the public being more likely to re-tweet pro-integration messaging when linked to the environment.
+
+## 
