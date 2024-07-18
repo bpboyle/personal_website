@@ -1,6 +1,6 @@
 ---
 title: "Catalysts for Progress? Policy Recommendations in Research on Renewable Energy and Climate Change "
-date: 2024
+date: 2024-01-01
 author:
   - name: Brian Paul Boyle
     orcid: 0000-0003-1996-5104
