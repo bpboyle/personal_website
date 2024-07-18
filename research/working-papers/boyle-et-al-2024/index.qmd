@@ -1,0 +1,27 @@
+---
+title: "Catalysts for Progress? Policy Recommendations in Research on Renewable Energy and Climate Change "
+date: 2024
+author:
+  - name: Brian Paul Boyle
+    orcid: 0000-0003-1996-5104
+    affiliation: Newcastle University
+  - name:  Yen-Chieh Liao
+    orcid: 0000-0002-2465-3749
+    affiliation: University College Dublin    
+  - name:  Stefan Müller
+    orcid: 0000-0002-6315-4125
+    affiliation: University College Dublin
+
+categories: 
+    - Climate change and energy policy
+    - Policy recommondations
+    - Bibliographic research
+    - Text as data
+  
+
+
+## Abstract
+
+Political parties, politicians, and governments increasingly encourage academics to make policy recommendations. Effective communication in areas like climate change and net zero energy is crucial for societal engagement and policy adoption. This study maps the prevalence of policy recommendations in academic research on renewable energy and climate change. We use a fine-tuned transformer-based machine learning classifier to analyze abstracts from over 355,000 publications to identify policy recommendations. We find that fewer than one in ten abstracts make a policy recommendation, with notable differences across disciplines and topics. Recommendations have become more common in climate change research, although the increase in net zero energy systems research is less pronounced. Our study suggests that policymakers and advisors may rarely find practical implications in research abstracts. Therefore, researchers and practitioners should explicitly state the policy relevance of their work in abstracts or use supplementary communication channels to discuss how science can contribute to a net zero energy future and climate change mitigation.
+
+## Citation
