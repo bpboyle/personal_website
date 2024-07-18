@@ -21,110 +21,94 @@ preview:
     browser: false
 ---
 
-
 ::: {#about-block}
-
 ```{=html}
 <div id="pagetitle">         
-		
-			<div id="name"> 
-			<center>
-			<h1>Brian Paul Boyle</h1>
-			<p>Lecturer in Comparative Politics<br/>
-			Newcastle University<br/>
-			</center>
-		  </div>     
+        
+            <div id="name"> 
+            <center>
+            <h1>Brian Paul Boyle</h1>
+            <p>Lecturer in Comparative Politics<br/>
+            Newcastle University<br/>
+            </center>
+          </div>     
 </div> 
 ```
-
-
 :::
 
 # About me
 
 My main research interests are comparative politics and political communication, with a focus on quantitative methods and computational social science approaches. I received my PhD in Politics from the University of Strathclyde in 2021. My current research examines political campaigning on Twitter during European Parliament elections, as well as political representation in UK public broadcasting. My other published work based on my PhD research explores the relationship between electoral rules such as compulsory voting and voter registration, and social inequalities across voting, non-electoral participation, and political attitudes.
 
-
-
 ```{=html}
 <br>
 <br>
 <br>
 <br>
 <br>
-
 
 ```
-
-
-
 # Data Visualisation
 
-
-
-::: {.grid}
-
-::: {.g-col-6}
+::: grid
+::: g-col-6
 ```{=html}
 
-	<div class="gallery">
-	<div class="desc">BBC Question Time Tweets on days episodes aired </div>
-	<a target="_blank" href="./datavis/figures/mpqt_tweet_freq.png">
-	<img src="./datavis/figures/mpqt_tweet_freq.png" alt="BBCQT Tweets" width="300" height="300">
-	</a>
-	</div>
-	
-	<br>
-	<br>
+    <div class="gallery">
+    <div class="desc">BBC Question Time Tweets on days episodes aired </div>
+    <a target="_blank" href="./datavis/figures/mpqt_tweet_freq.png">
+    <img src="./datavis/figures/mpqt_tweet_freq.png" alt="BBCQT Tweets" width="300" height="300">
+    </a>
+    </div>
+    
+    <br>
+    <br>
 
-	<div class="gallery">
-	<div class="desc">Language breakdown of 2019 MEP candidate Tweets</div>
+    <div class="gallery">
+    <div class="desc">Language breakdown of 2019 MEP candidate Tweets</div>
    <a target="_blank" href="./datavis/figures/ep19_lang_heatmap.png">
-	  <img src="./datavis/figures/ep19_lang_heatmap.png" alt="EP19 Languages" width="300" height="300">
-	 </a>
-	 </div>
-	 
-	<br>
-	<br>
+      <img src="./datavis/figures/ep19_lang_heatmap.png" alt="EP19 Languages" width="300" height="300">
+     </a>
+     </div>
+     
+    <br>
+    <br>
 
-	<div class="gallery">
-	<div class="desc">Brexit views for BBCQT guest appearances (2015-19)</div>
+    <div class="gallery">
+    <div class="desc">Brexit views for BBCQT guest appearances (2015-19)</div>
   <a target="_blank" href="./datavis/figures/brex_cat_agg.png">
-	<img src="./datavis/figures/brex_cat_agg.png" alt="BBCQT Brexit Views" width="300" height="300">
-	</a>
-	</div>
-
+    <img src="./datavis/figures/brex_cat_agg.png" alt="BBCQT Brexit Views" width="300" height="300">
+    </a>
+    </div>
 
 
 ```
 :::
 
-::: {.g-col-6}
+::: g-col-6
 ```{=html}
 
-	<div class="gallery">
-	<div class="desc"> <h6> Gender balance of BBCQT appearances (1979-2019)</h6></div>
-	<a target="_blank" href="./datavis/figures/bl_sex_year_combined.png">
-	<img src="./datavis/figures/bl_sex_year_combined.png" alt="BBCQT Sex Year" width="300" height="300">
-	</a>
+    <div class="gallery">
+    <div class="desc"> <h6> Gender balance of BBCQT appearances (1979-2019)</h6></div>
+    <a target="_blank" href="./datavis/figures/bl_sex_year_combined.png">
+    <img src="./datavis/figures/bl_sex_year_combined.png" alt="BBCQT Sex Year" width="300" height="300">
+    </a>
   </div>
 
-	 <br>
-	 <br>
-	
-	<div class="desc">Brexit vote choice for BBCQT appearances (2015-19)</div>
-	<div class="gallery">
-	<a target="_blank" href="./datavis/figures/brex_lr_agg.png">
-	<img src="./datavis/figures/brex_lr_agg.png" alt="BBCQT Leave/Remain" width="300" height="300">
-	</a>
-	</div>
-	
+     <br>
+     <br>
+    
+    <div class="desc">Brexit vote choice for BBCQT appearances (2015-19)</div>
+    <div class="gallery">
+    <a target="_blank" href="./datavis/figures/brex_lr_agg.png">
+    <img src="./datavis/figures/brex_lr_agg.png" alt="BBCQT Leave/Remain" width="300" height="300">
+    </a>
+    </div>
+    
 
 
 
   
 ```
-
 :::
-
 :::
