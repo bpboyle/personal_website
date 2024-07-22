@@ -12,8 +12,7 @@ categories:
   - Electoral Rules
   - Survey Data
 pub-info:
-  reference: >-
-    <a href="http://www.suparnachaudhry.com/">Suparna Chaudhry</a>, <a href="https://marriottschool.byu.edu/directory/details?id=50683">Marc Dotson</a>, and <strong>Andrew Heiss</strong>, “Who Cares About Crackdowns? Exploring the Role of Trust in Individual Philanthropy,” <em>Global Policy</em> 12, no. S5 (July 2021): 45–58, doi: <a href="https://doi.org/10.1111/1758-5899.12984"><code>10.1111/1758-5899.12984</code></a>
+
   links:
 
     - name: Final version
@@ -31,6 +30,8 @@ The issue of unequal electoral turnout poses serious concerns for both the overa
 
 ## Citation
 
+Boyle, B. P. (2024). Engineering Democracy: Electoral Rules and Turnout Inequality. Political Studies, 72(1), 177-199. https://doi.org/10.1177/00323217221096563
+
 <p class="buttons" style="text-align:center;">
 
 <a class="btn btn-danger btn-sm" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1177/00323217221096563">Add to Zotero </a>
@@ -42,10 +43,10 @@ The issue of unequal electoral turnout poses serious concerns for both the overa
 author = {Brian Paul Boyle},
 title ={Engineering Democracy: Electoral Rules and Turnout Inequality},
 journal = {Political Studies},
-volume = {0},
-number = {0},
-pages = {00323217221096563},
-year = {2022},
+volume = {72},
+number = {1},
+pages = {177-199},
+year = {2024},
 doi = {10.1177/00323217221096563},
 URL = {https://doi.org/10.1177/00323217221096563},
 eprint = {https://doi.org/10.1177/00323217221096563}}
