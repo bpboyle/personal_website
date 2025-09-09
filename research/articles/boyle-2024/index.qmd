@@ -1,6 +1,6 @@
 ---
 title: "Engineering Democracy: Electoral Rules and Turnout Inequality"
-date: 2022-06-07
+date: 2024-02-01
 author:
   - name: Brian Paul Boyle
     url: https://brianpaulboyle.com/

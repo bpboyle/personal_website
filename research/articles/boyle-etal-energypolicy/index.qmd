@@ -1,5 +1,6 @@
 ---
 title: "Catalysts for Progress? Policy Recommendations in Research on Renewable Energy and Climate Change"
+date: 2025-03-01
 author:
   - name: Brian Paul Boyle
     orcid: 0000-0003-1996-5104
@@ -7,6 +8,12 @@ author:
   - name:  Yen-Chieh Liao
     orcid: 0000-0002-2465-3749
     affiliation: University College Dublin    
+  - name:  Sarah King
+    orcid: 0009-0004-6376-7839
+    affiliation: University College Dublin
+  - name:  Robin Rauner
+    orcid: 0009-0000-3352-7413
+    affiliation: University College Dublin
   - name:  Stefan Müller
     orcid: 0000-0002-6315-4125
     affiliation: University College Dublin
@@ -17,10 +24,33 @@ categories:
     - Policy recommondations
     - Bibliographic research
     - Text as data
+
+pub-info:
+
+  links:
+
+    - name: Final version
+      url: https://www.sciencedirect.com/science/article/pii/S2214629625000362
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1016/j.erss.2025.103955
+      icon: ai ai-zotero
+doi: 10.1016/j.erss.2025.103955
 ---
+
 
 ## Abstract
 
-Political parties, politicians, and governments increasingly encourage academics to make policy recommendations. Effective communication in areas like climate change and net zero energy is crucial for societal engagement and policy adoption. This study maps the prevalence of policy recommendations in academic research on renewable energy and climate change. We use a fine-tuned transformer-based machine learning classifier to analyze abstracts from over 355,000 publications to identify policy recommendations. We find that fewer than one in ten abstracts make a policy recommendation, with notable differences across disciplines and topics. Recommendations have become more common in climate change research, although the increase in net zero energy systems research is less pronounced. Our study suggests that policymakers and advisors may rarely find practical implications in research abstracts. Therefore, researchers and practitioners should explicitly state the policy relevance of their work in abstracts or use supplementary communication channels to discuss how science can contribute to a net zero energy future and climate change mitigation.
+This article measures policy relevance in the abstracts of papers published between 2010 and 2023 in the top 100 journals covering energy research. Communicating the impact of research beyond academia is key to overcoming the evidence-policy divide. Yet, policy engagement is shaped by structural factors and poses unresolved dilemmas for researchers. Qualitative analyses of how research findings are presented in publications are inherently limited in scope, while simple search queries miss contributions that do not refer to ‘policy’ explicitly. Undertaking a large-scale bibliometric analysis, we use computational methods to evaluate over 270,000 abstracts by applying a carefully validated keyword-based dictionary approach. Overall, we find that 15 % of abstracts contain policy-relevant statements, with considerable differences among journals mentioning policy in their aims and scope. We also observe geographic variation by authorship and the funding agencies that sponsored research projects. Finally, we apply unsupervised topic models to identify distinct themes in policy-relevant abstracts. Our analysis reveals that the topics of renewable energy and implementation are most prevalent but have declined since 2010, while the focus on energy systems and emissions has gradually increased. These findings inform ongoing discussions about bridging the gap between research and policy impact in a field that will play a pivotal role in developing pathways to net zero.
 
-## 
+
+## Citation
+
+Boyle, B. et al. (2025) ‘Catalysts for progress? Mapping policy insights from energy research’, Energy Research & Social Science, 121, p. 103955. Available at: https://doi.org/10.1016/j.erss.2025.103955.
+
+
+<p class="buttons" style="text-align:center;">
+
+<a class="btn btn-danger btn-sm" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1016/j.erss.2025.103955">Add to Zotero </a>
+
+</p>
