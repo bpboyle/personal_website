@@ -19,15 +19,7 @@ categories:
     - Election campaigns
     - Social media
     - Text as data
-pub-info:
-  links:
-    - name: Final version
-      url: https://journals.sagepub.com/doi/full/10.1177/13540688251317855
-      icon: fa-solid fa-scroll
-    - name: Add to Zotero
-      url: https://www.zotero.org/save?type=doi&q=10.1177/13540688251317855
-      icon: ai ai-zotero
-doi: 10.1177/13540688251317855
+
 ---
 
 ## Abstract
