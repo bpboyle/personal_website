@@ -7,15 +7,49 @@ author:
   - name: Brian Paul Boyle
     orcid: 0000-0003-1996-5104
     affiliation: Newcastle University
+  - name: Yulia Lemesheva
+    affiliation: University of Strathclyde
 
 categories: 
     - Media representation
     - UK
     - Brexit
+pub-info:
+
+  links:
+
+    - name: Final version
+      url: https://journals.sagepub.com/doi/full/10.1177/19401612241292716
+      icon: fa-solid fa-scroll
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1177/19401612241292716
+      icon: ai ai-zotero
+doi: 10.1177/19401612241292716
 ---
 
 ## Abstract
 
 Televised political debate programming plays a key function in enabling citizens to become informed of salient political topics, and provides information on parties' stances on key issues outside of election campaigns. Public broadcasters are bound by strict guidelines to ensure balance in representing different demographic and political groups, to better reflect the distribution of these characteristics within the public and political elites. How are these decisions affected when the biggest political issues of the day create further cleavages that cross-cut existing divides, but also deserve representation in political discourse? In this paper, we examine how panel selection on BBC Question Time dealt with this in relation to two major issues in 21st century UK politics: Brexit and the UK invasion of Iraq. We introduce an original dataset including all BBC Question Time appearances between 2001-2019, created using a combination of web-scraping and expert coding. This allows us to trace patterns in representation across gender, ethnicity, and educational background; as well as partisan affiliation and stances on Brexit and the Iraq war for the show's panelists. We find that panel selection closely reflects gender and ethnic diversity among the UK public and MPs, but that individuals from privileged educational backgrounds are vastly overrepresented on the show. For both the Iraq war and Brexit, the show again broadly reflects the views of the public and political elites once we account for relevant comparisons between politicians and non-political guests.
 
-## 
+
+## Citation
+
+Brandenburg, H., Boyle, B. P., & Lemesheva, Y. (2024). Brexit and the Iraq War on BBC Question Time: Demographic and Political Issue Representation in UK Public Participation Broadcasting. The International Journal of Press/Politics, 0(0). https://doi.org/10.1177/19401612241292716
+
+<p class="buttons" style="text-align:center;">
+
+<a class="btn btn-danger btn-sm" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1177/19401612241292716">Add to Zotero </a>
+
+</p>
+
+``` bibtex
+@article{doi = {10.1177/19401612241292716},
+author = {Brandenburg, Heinz and Boyle, Brian Paul and Lemesheva, Yulia},
+title = {Brexit and the Iraq War on BBC Question Time: Demographic and Political Issue Representation in UK Public Participation Broadcasting},
+journal = {The International Journal of Press/Politics},
+url = {https://journals.sagepub.com/doi/10.1177/19401612241292716},
+year = {2024}}
+```
+
+
+
