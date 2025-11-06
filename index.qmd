@@ -9,7 +9,7 @@ about:
     - icon: mortarboard-fill
       text: Scopus
       href: "https://www.scopus.com/authid/detail.uri?authorId=58182551100"
-    - icon: bluesky
+    - icon: bi-bluesky
       text: Bluesky
       href: "https://bsky.app/profile/bpboyle.bsky.social"
     - icon: github
