@@ -48,7 +48,6 @@ My main research interests are comparative politics, political behaviour, and po
 <br>
 <br>
 <br>
-<br>
 ```
 # Data Visualisation
 
@@ -82,7 +81,6 @@ My main research interests are comparative politics, political behaviour, and po
     <img src="./datavis/figures/brex_cat_agg.png" alt="BBCQT Brexit Views" width="300" height="300">
     </a>
     </div>
-
 ```
 :::
 
