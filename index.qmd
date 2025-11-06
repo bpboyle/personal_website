@@ -6,11 +6,11 @@ about:
     - icon: mortarboard-fill
       text: Google Scholar
       href: "https://scholar.google.com/citations?user=6KRIHvkAAAAJ&hl=en&oi=ao"
-    - icon: mortarboard-fill
+    - icon: "{{< iconify academicons scopus >}}"
       text: Scopus
       href: "https://www.scopus.com/authid/detail.uri?authorId=58182551100"
-    - icon: bi-bluesky
-      text: Bluesky
+    - icon: bluesky
+      text: "{{< iconify fa6-brands twitter >}}"
       href: "https://bsky.app/profile/bpboyle.bsky.social"
     - icon: github
       text: Github
